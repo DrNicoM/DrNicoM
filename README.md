@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+Docente
 
+En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), 
 
-asdasdasd
+## OSINT:
+asdasd
+</br>
