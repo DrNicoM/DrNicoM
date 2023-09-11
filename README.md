@@ -7,22 +7,31 @@ Si ves que falta algo escríbeme 📧.
 ## OSINT:
 
 - [**Osint industries**](https://osint.industries/): Una herramienta para obtener información de un mail o nº de teléfono.
-- [Shodan](https://www.shodan.io/): El Google de los dispositivos conectados a internet
-- [Hunter](https://hunter.how/): Alternativa a Shodan
-- Hunter.io(https://hunter.io/): Recopila todos los mails de un organismo o institución
-- (https://synapsint.com/index.php): Buscador OSINT
-- Intelx (https://intelx.io/): Buscador OSINT para dominios, URls, emails, IPs, BTC...
+- [**Epieos**](https://epieos.com/): Herramienta para obtener información de un mail o teléfono, siempre es bueno repetir en diferentes plataformas porque nos pueden dar diferentes resultados.
+- [**Shodan**](https://www.shodan.io/): El Google de los dispositivos conectados a internet.
+- [**Hunter**](https://hunter.how/): Alternativa a Shodan.
+- [**Lampyre**](https://lampyre.io/): Una herramienta OSINT para obtener mucha información, te recomiendo la versión de escritorio.
+- Hunter.io(https://hunter.io/): Recopila todos los mails de un organismo o institución.
+- theHarvester(https://github.com/laramies/theHarvester): Herramienta Open Source para investigar nombres, emails, IPs, Dominios...
+- (https://synapsint.com/index.php): Buscador OSINT.
+- [**Webmii**](https://webmii.com/): Introduce el nombre y apellido de tu objetivo y descubre lo que hay sobre él.
+- Intelx(https://intelx.io/): Buscador OSINT para dominios, URls, emails, IPs, BTC...
+- SpiderFoot (https://github.com/smicallef/spiderfoot.git): Herramienta de escritorio para hacer ciberinteligencia
+- Censys (https://search.censys.io/): Para buscar información sobre hosts.
+- DataSploit(https://github.com/DataSploit/datasploit): Herramienta para obtener información de dominios, emails, teléfonos y nombres de usuario.
 
 ## SOCMINT:
 
-- https://urlebird.com/es/): Para investigar usuarios o etiquetas en Tik Tok
+- https://urlebird.com/es/): Para investigar usuarios o etiquetas en Tik Tok.
+- [**Snscrape**](https://github.com/JustAnotherArchivist/snscrape): Recopilar información de las redes sociales de un objetivo.
+- TinfoLeak(https://github.com/vaguileradiaz/tinfoleak): Aplicación para sacar mucha información de Twitter.
 
 
 </br>
 
 ## IMINT:
 He querido 
-- (https://www.metadata2go.com/): Obtención de metadatos de forma rápida y online
+- (https://www.metadata2go.com/): Obtención de metadatos de forma rápida y online.
 - (https://tineye.com/): Para realizar búsqueda inversa de imágenes, todo el mundo la recomienda pero la verdad es que a mí no me suele funcionar, si te funciona... Avisa.
 
 </br>
