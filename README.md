@@ -16,7 +16,7 @@ Si ves que falta algo escríbeme 📧.
 - [**Synapsint**](https://synapsint.com/index.php): Buscador OSINT.
 - [**Webmii**](https://webmii.com/): Introduce el nombre y apellido de tu objetivo y descubre lo que hay sobre él.
 - [**Intelx**](https://intelx.io/): Buscador OSINT para dominios, URls, emails, IPs, BTC...
-- [**SpiderFoot**](https://github.com/smicallef/spiderfoot.git): Herramienta de escritorio para hacer ciberinteligencia
+- [**Spider Foot**](https://github.com/smicallef/spiderfoot.git): Herramienta de escritorio para hacer ciberinteligencia
 - [**Censys**](https://search.censys.io/): Para buscar información sobre hosts.
 - [**DataSploit**](https://github.com/DataSploit/datasploit): Herramienta para obtener información de dominios, emails, teléfonos y nombres de usuario.
 - [**TraxOsint**](https://github.com/N0rz3/TraxOsint): Buscador OSINT muy interesante.
@@ -45,6 +45,7 @@ He querido
 asdasdasdasd
 - [**Opensquat**](https://github.com/atenreiro/opensquat):Herramienta para detectar ataques tiposquating
 - [**FTK Imager**](https://www.exterro.com/ftk-imager): ¿De verdad? Si te dedicas a la informática forense... Poco hay que decir de esta herramienta.
+- [**URL Scan**](https://urlscan.io/): Herramienta para saber qué hay detrás de una url y sus redirecciones.
 </br>
 
 ## RECURSOS INTERESANTES:
