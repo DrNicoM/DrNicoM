@@ -21,6 +21,7 @@ Si ves que falta algo escríbeme 📧.
 - [**DataSploit**](https://github.com/DataSploit/datasploit): Herramienta para obtener información de dominios, emails, teléfonos y nombres de usuario.
 - [**TraxOsint**](https://github.com/N0rz3/TraxOsint): Buscador OSINT muy interesante.
 - [**Pdlist**](https://github.com/gnebbia/pdlist): Para encontrar subdominios.
+- [**Pulsedive**](https://pulsedive.com/)Herramienta muy potente para obtener información de dominios, Ips o URLs
 - 
 
 ## SOCMINT:
