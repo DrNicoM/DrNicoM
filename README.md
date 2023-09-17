@@ -23,13 +23,20 @@ Si ves que falta algo escríbeme 📧.
 - [**Pdlist**](https://github.com/gnebbia/pdlist): Para encontrar subdominios.
 - [**Pulsedive**](https://pulsedive.com/)Herramienta muy potente para obtener información de dominios, Ips o URLs
 - [**Xurlfind3r**](https://github.com/hueristiq/xurlfind3r): Aplicación que ofrece bastante información sobre una URL, conectándose a Intelligence X, Urlscan, Wayback Machine...
-- 
+- [**Photon**](https://github.com/s0md3v/Photon): Herramienta muy potente que realizando un escaneo activo de una web, obtienes todos los emails.
+- [**BLUELAY**](https://github.com/xakepnz/BLUELAY): Buscador de keywords en pastebin y otros sitios.
+- [**Libre Borme**](https://librebor.me/): Buscador de personas y sociedades en el BORME
+- [**Hacker Target**](https://hackertarget.com/): Suite de herramientas, DNS lookup, reverse DNS, Whois...
+- [**Wigle**](https://wigle.net/): Busador de redes WIFI escaneadas y geolocalizadas.
 
 ## SOCMINT:
 
 - [**UrlBird**](https://urlebird.com/es/): Para investigar usuarios o etiquetas en Tik Tok.
 - [**Snscrape**](https://github.com/JustAnotherArchivist/snscrape): Recopilar información de las redes sociales de un objetivo.
 - [**TinfoLeak**](https://github.com/vaguileradiaz/tinfoleak): Aplicación para sacar mucha información de Twitter.
+- [**Photon**](https://github.com/s0md3v/Photon): Busca toda la información de un nickname (username) de más de 1000 sitios web.
+- [**BlackBird**](https://github.com/p1ngul1n0/blackbird): Si el anterior no te ha ofrecido resultados interesantes, prueba esta herramienta, para buscar usuarios en más de 1000 sitios.
+- [**Sterra**](https://github.com/novitae/sterraxcyl): Herramienta muy potente para analizar Instagram.
 
 
 </br>
@@ -39,8 +46,11 @@ He querido
 - [**Metadata2go**](https://www.metadata2go.com/): Obtención de metadatos de forma rápida y online.
 - [**FOCA**](https://github.com/ElevenPaths/FOCA): Para realizar un análisis exhaustivo de imágenes FOCA es lo mejor, así como de otro tipo de documentos.
 - [**Tineye**](https://tineye.com/): Para realizar búsqueda inversa de imágenes, todo el mundo la recomienda pero la verdad es que a mí no me suele funcionar, si te funciona... Avisa.
+- [**Face Check**](https://facecheck.id/): Para realizar búsqueda inversa de imágenes sobre una persona.
 - [**Depix**](https://github.com/spipm/Depix):¿Tienes un texto pixelado o con una zona borrada? Pásale Depix y podrás descubrir el texto borrado.
 - [**Suncalc**](http://suncalc.net/): Aplicación para calcular la hora a la que se hizo una fotografía en función de las sombras.
+- [**Shadow Map**](https://app.shadowmap.org/?): Mapa en 3d para visualizar las sombras.
+- [**Am I Real**](https://seintpl.github.io/AmIReal/): Aplicación para detectar si una imagen ha sido creada por IA o no.
 
 </br>
 
@@ -49,6 +59,10 @@ asdasdasdasd
 - [**Opensquat**](https://github.com/atenreiro/opensquat):Herramienta para detectar ataques tiposquating
 - [**FTK Imager**](https://www.exterro.com/ftk-imager): ¿De verdad? Si te dedicas a la informática forense... Poco hay que decir de esta herramienta.
 - [**URL Scan**](https://urlscan.io/): Herramienta para saber qué hay detrás de una url y sus redirecciones.
+- [**Where Goes Trace**](https://wheregoes.com/trace/): Herramienta específica para ver el nº de redirecciones que tiene una url.
+- [**WP Seku**](https://github.com/andripwn/WPSeku): Para realizar un análisis de seguridad de una página web Wordpress.
+- [**Event Log Explorer**](https://eventlogxp.com/): Programa para visualizar los logs de forma más sencilla.
+- [**Photo REC**](https://www.cgsecurity.org/wiki/PhotoRec_ES): Para recuperar archivos eliminados.
 </br>
 
 ## RECURSOS INTERESANTES:
@@ -65,8 +79,9 @@ El cajón desastre, herramientas, aplicaciones, o páginas webs que no las llego
 - [**Any Run**](https://any.run/): Sanbox 1, para mí el más fácil e intuitivo.
 - [**Joe´s Security**](https://www.joesecurity.org/): Sandbox 2.
 - [**Alien Vault**](https://otx.alienvault.com/): Sandbox 3.
-- 
-- 
+- [**Tor Flow**](https://torflow.uncharted.software/): Análisis del tráfico en la red TOR
+- [**WhatsAPP Monitor**](https://github.com/ErikTschierschke/WhatsappMonitor): Aplicación para monitorizar cuando un contacto de WhatsApp está conectado y desconectado.
+- [**RansomLook**](https://www.ransomlook.io/): Página que reúne todas las novedadees entorno a ataques de ransomware.
 - 
 </br>
 
