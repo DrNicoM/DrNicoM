@@ -22,13 +22,14 @@ Si ves que falta algo escríbeme 📧.
 - [**TraxOsint**](https://github.com/N0rz3/TraxOsint): Buscador OSINT muy interesante.
 - [**Pdlist**](https://github.com/gnebbia/pdlist): Para encontrar subdominios.
 - [**Pulsedive**](https://pulsedive.com/)Herramienta muy potente para obtener información de dominios, Ips o URLs
+- [**Xurlfind3r**](https://github.com/hueristiq/xurlfind3r): Aplicación que ofrece bastante información sobre una URL, conectándose a Intelligence X, Urlscan, Wayback Machine...
 - 
 
 ## SOCMINT:
 
-- [**UrlBird**]https://urlebird.com/es/): Para investigar usuarios o etiquetas en Tik Tok.
+- [**UrlBird**](https://urlebird.com/es/): Para investigar usuarios o etiquetas en Tik Tok.
 - [**Snscrape**](https://github.com/JustAnotherArchivist/snscrape): Recopilar información de las redes sociales de un objetivo.
-- [**TinfoLeak**]TinfoLeak(https://github.com/vaguileradiaz/tinfoleak): Aplicación para sacar mucha información de Twitter.
+- [**TinfoLeak**](https://github.com/vaguileradiaz/tinfoleak): Aplicación para sacar mucha información de Twitter.
 
 
 </br>
@@ -39,6 +40,7 @@ He querido
 - [**FOCA**](https://github.com/ElevenPaths/FOCA): Para realizar un análisis exhaustivo de imágenes FOCA es lo mejor, así como de otro tipo de documentos.
 - [**Tineye**](https://tineye.com/): Para realizar búsqueda inversa de imágenes, todo el mundo la recomienda pero la verdad es que a mí no me suele funcionar, si te funciona... Avisa.
 - [**Depix**](https://github.com/spipm/Depix):¿Tienes un texto pixelado o con una zona borrada? Pásale Depix y podrás descubrir el texto borrado.
+- [**Suncalc**](http://suncalc.net/): Aplicación para calcular la hora a la que se hizo una fotografía en función de las sombras.
 
 </br>
 
@@ -52,8 +54,7 @@ asdasdasdasd
 ## RECURSOS INTERESANTES:
 El cajón desastre, herramientas, aplicaciones, o páginas webs que no las llego a ver en ninguna categoría anterior y me ha parecido interesante listarlas en el repositorio:
 
-- [**Generated.photos***](https://generated.photos/human-generator/): Para crear imágenes de perfil mediante IA.
-- [**IA Generate Photo**](https://thispersondoesnotexist.com/): Como la herramienta anterior, pero diferente.
+
 - [**Tails SO**](https://tails.net/index.es.html): SO basado en el anonimato, muy recomendado a la hora de conectarse a ciertas páginas onion.
 - [**Remove BG**]Remove BG(https://www.remove.bg/es): Quitar el fondo de cualquier imagen online.
 - [**TT Downloader**](https://ttdownloader.com/es/): Para descargar vídeos de Tik Tok.
@@ -61,8 +62,20 @@ El cajón desastre, herramientas, aplicaciones, o páginas webs que no las llego
 - [**Any.run**](https://any.run/): Plataforma para realizar análisis de malware.
 - [**IP Logger**](https://iplogger.org/es/): Para crear una baliza.
 - [**Canary Tokens**](https://canarytokens.org/generate): Para crear balizas personalizadas.
-
-
+- [**Any Run**](https://any.run/): Sanbox 1, para mí el más fácil e intuitivo.
+- [**Joe´s Security**](https://www.joesecurity.org/): Sandbox 2.
+- [**Alien Vault**](https://otx.alienvault.com/): Sandbox 3.
+- 
+- 
+- 
 </br>
 
-**DrNicoM/DrNicoM** is a
+## IAs INTERESANTES:
+- [**Generated.photos***](https://generated.photos/human-generator/): Para crear imágenes de perfil mediante IA.
+- [**IA Generate Photo**](https://thispersondoesnotexist.com/): Como la herramienta anterior, pero diferente.
+- [**Mubert**](https://mubert.com/render): IA para hacer música
+- [**Fliki**](https://fliki.ai/): IA para crear videos y pasar el texto a voz.
+- 
+</br>
+
+Eso sería todo, espero que te haya sido de ayuda.
