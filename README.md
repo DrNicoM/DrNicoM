@@ -45,6 +45,7 @@ Obtención de información a través de redes sociales:
 - [**Photon**](https://github.com/s0md3v/Photon): Busca toda la información de un nickname (username) de más de 1000 sitios web.
 - [**BlackBird**](https://github.com/p1ngul1n0/blackbird): Si el anterior no te ha ofrecido resultados interesantes, prueba esta herramienta, para buscar usuarios en más de 1000 sitios.
 - [**Sterra**](https://github.com/novitae/sterraxcyl): Herramienta muy potente para analizar Instagram.
+- [**Osintgram**](https://github.com/Datalux/Osintgram): Herramienta para obtener información de Instagram.
 
 </br>
 
@@ -59,7 +60,7 @@ Obtención de información a través de imágenes, ya sea en los metadatos o bie
 - [**Suncalc**](http://suncalc.net/): Aplicación para calcular la hora a la que se hizo una fotografía en función de las sombras.
 - [**Shadow Map**](https://app.shadowmap.org/?): Mapa en 3d para visualizar las sombras.
 - [**Am I Real**](https://seintpl.github.io/AmIReal/): Aplicación para detectar si una imagen ha sido creada por IA o no.
-- [**Osintgram**](https://github.com/Datalux/Osintgram): Herramienta para obtener información de Instagram.
+
 
 </br>
 
