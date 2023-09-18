@@ -5,6 +5,7 @@ Siempre estoy recomendando en clases diferentes herramientas, llevando a los alu
 Si ves que falta algo escríbeme 📧.
 
 ## OSINT:
+Recursos para obtener información de fuentes abiertas, ya sea información de un email, teléfono, IP, etc.
 
 - [**Osint industries**](https://osint.industries/): Una herramienta para obtener información de un mail o nº de teléfono.
 - [**Epieos**](https://epieos.com/): Herramienta para obtener información de un mail o teléfono, siempre es bueno repetir en diferentes plataformas porque nos pueden dar diferentes resultados.
@@ -43,7 +44,6 @@ Obtención de información a través de redes sociales:
 - [**BlackBird**](https://github.com/p1ngul1n0/blackbird): Si el anterior no te ha ofrecido resultados interesantes, prueba esta herramienta, para buscar usuarios en más de 1000 sitios.
 - [**Sterra**](https://github.com/novitae/sterraxcyl): Herramienta muy potente para analizar Instagram.
 
-
 </br>
 
 ## IMINT:
@@ -57,6 +57,7 @@ Obtención de información a través de imágenes, ya sea en los metadatos o bie
 - [**Suncalc**](http://suncalc.net/): Aplicación para calcular la hora a la que se hizo una fotografía en función de las sombras.
 - [**Shadow Map**](https://app.shadowmap.org/?): Mapa en 3d para visualizar las sombras.
 - [**Am I Real**](https://seintpl.github.io/AmIReal/): Aplicación para detectar si una imagen ha sido creada por IA o no.
+- [**Osintgram**](https://github.com/Datalux/Osintgram): Herramienta para obtener información de Instagram.
 
 </br>
 
@@ -102,4 +103,4 @@ El cajón desastre, herramientas, aplicaciones, o páginas webs que no las llego
 - 
 </br>
 
-Eso sería todo, espero que te haya sido de ayuda.
+Eso sería todo, espero que te sea de ayuda.
