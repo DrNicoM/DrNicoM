@@ -27,9 +27,14 @@ Si ves que falta algo escríbeme 📧.
 - [**BLUELAY**](https://github.com/xakepnz/BLUELAY): Buscador de keywords en pastebin y otros sitios.
 - [**Libre Borme**](https://librebor.me/): Buscador de personas y sociedades en el BORME
 - [**Hacker Target**](https://hackertarget.com/): Suite de herramientas, DNS lookup, reverse DNS, Whois...
+- [**DNS Dumpster**](https://dnsdumpster.com/): Para obtener datos sobre una página web, con gráficos muy interesantes.
 - [**Wigle**](https://wigle.net/): Busador de redes WIFI escaneadas y geolocalizadas.
+- [**Moriarty Project**](https://github.com/AzizKpln/Moriarty-Project): Para obtener información de un nº de teléfono.
+- [**Phone infoga**](https://github.com/sundowndev/phoneinfoga): Aplicación que realiza una búsqueda activa sobre la información relacionada con un nº de teléfono.
+- [**OSINT Combine**](https://www.osintcombine.com/google-analytics-id-explorer): Para cotejar el identificador de Google Analytics con otras páginas webs. 
 
 ## SOCMINT:
+Obtención de información a través de redes sociales:
 
 - [**UrlBird**](https://urlebird.com/es/): Para investigar usuarios o etiquetas en Tik Tok.
 - [**Snscrape**](https://github.com/JustAnotherArchivist/snscrape): Recopilar información de las redes sociales de un objetivo.
@@ -42,7 +47,8 @@ Si ves que falta algo escríbeme 📧.
 </br>
 
 ## IMINT:
-He querido 
+Obtención de información a través de imágenes, ya sea en los metadatos o bien por el contenido de la imagen:
+
 - [**Metadata2go**](https://www.metadata2go.com/): Obtención de metadatos de forma rápida y online.
 - [**FOCA**](https://github.com/ElevenPaths/FOCA): Para realizar un análisis exhaustivo de imágenes FOCA es lo mejor, así como de otro tipo de documentos.
 - [**Tineye**](https://tineye.com/): Para realizar búsqueda inversa de imágenes, todo el mundo la recomienda pero la verdad es que a mí no me suele funcionar, si te funciona... Avisa.
@@ -55,7 +61,8 @@ He querido
 </br>
 
 ## INFORMÁTICA FORENSE:
-asdasdasdasd
+Aplicaciones que he utilizado a nivel forense:
+
 - [**Opensquat**](https://github.com/atenreiro/opensquat):Herramienta para detectar ataques tiposquating
 - [**FTK Imager**](https://www.exterro.com/ftk-imager): ¿De verdad? Si te dedicas a la informática forense... Poco hay que decir de esta herramienta.
 - [**URL Scan**](https://urlscan.io/): Herramienta para saber qué hay detrás de una url y sus redirecciones.
@@ -63,6 +70,8 @@ asdasdasdasd
 - [**WP Seku**](https://github.com/andripwn/WPSeku): Para realizar un análisis de seguridad de una página web Wordpress.
 - [**Event Log Explorer**](https://eventlogxp.com/): Programa para visualizar los logs de forma más sencilla.
 - [**Photo REC**](https://www.cgsecurity.org/wiki/PhotoRec_ES): Para recuperar archivos eliminados.
+- [**MXToolbox**](https://mxtoolbox.com/EmailHeaders.aspx): Herramienta para leer las cabeceras de los emails y otras utilidades.
+- [**CrackSation**](https://crackstation.net/): Para descifrar hashes que se encuentran en la base de datos de la aplicación.
 </br>
 
 ## RECURSOS INTERESANTES:
@@ -73,8 +82,8 @@ El cajón desastre, herramientas, aplicaciones, o páginas webs que no las llego
 - [**Remove BG**]Remove BG(https://www.remove.bg/es): Quitar el fondo de cualquier imagen online.
 - [**TT Downloader**](https://ttdownloader.com/es/): Para descargar vídeos de Tik Tok.
 - [**Fake Name Generator**](https://es.fakenamegenerator.com/): Para crear datos falsos, desde nombres, direcciones físicas, datos bancarios...
-- [**Any.run**](https://any.run/): Plataforma para realizar análisis de malware.
 - [**IP Logger**](https://iplogger.org/es/): Para crear una baliza.
+- [**Seeker**](https://github.com/thewhiteh4t/seeker): Para crear un archivo que con ingeniería social, consigues más información del objetivo, como la ubicación.
 - [**Canary Tokens**](https://canarytokens.org/generate): Para crear balizas personalizadas.
 - [**Any Run**](https://any.run/): Sanbox 1, para mí el más fácil e intuitivo.
 - [**Joe´s Security**](https://www.joesecurity.org/): Sandbox 2.
