@@ -34,6 +34,8 @@ Recursos para obtener información de fuentes abiertas, ya sea información de u
 - [**Phone infoga**](https://github.com/sundowndev/phoneinfoga): Aplicación que realiza una búsqueda activa sobre la información relacionada con un nº de teléfono.
 - [**OSINT Combine**](https://www.osintcombine.com/google-analytics-id-explorer): Para cotejar el identificador de Google Analytics con otras páginas webs. 
 
+</br>
+
 ## SOCMINT:
 Obtención de información a través de redes sociales:
 
@@ -53,7 +55,7 @@ Obtención de información a través de imágenes, ya sea en los metadatos o bie
 - [**FOCA**](https://github.com/ElevenPaths/FOCA): Para realizar un análisis exhaustivo de imágenes FOCA es lo mejor, así como de otro tipo de documentos.
 - [**Tineye**](https://tineye.com/): Para realizar búsqueda inversa de imágenes, todo el mundo la recomienda pero la verdad es que a mí no me suele funcionar, si te funciona... Avisa.
 - [**Face Check**](https://facecheck.id/): Para realizar búsqueda inversa de imágenes sobre una persona.
-- [**Depix**](https://github.com/spipm/Depix):¿Tienes un texto pixelado o con una zona borrada? Pásale Depix y podrás descubrir el texto borrado.
+- [**Depix**](https://github.com/spipm/Depix): ¿Tienes un texto pixelado o con una zona borrada? Pásale Depix y podrás descubrir el texto borrado.
 - [**Suncalc**](http://suncalc.net/): Aplicación para calcular la hora a la que se hizo una fotografía en función de las sombras.
 - [**Shadow Map**](https://app.shadowmap.org/?): Mapa en 3d para visualizar las sombras.
 - [**Am I Real**](https://seintpl.github.io/AmIReal/): Aplicación para detectar si una imagen ha sido creada por IA o no.
@@ -64,7 +66,7 @@ Obtención de información a través de imágenes, ya sea en los metadatos o bie
 ## INFORMÁTICA FORENSE:
 Aplicaciones que he utilizado a nivel forense:
 
-- [**Opensquat**](https://github.com/atenreiro/opensquat):Herramienta para detectar ataques tiposquating
+- [**Opensquat**](https://github.com/atenreiro/opensquat): Herramienta para detectar ataques tiposquating
 - [**FTK Imager**](https://www.exterro.com/ftk-imager): ¿De verdad? Si te dedicas a la informática forense... Poco hay que decir de esta herramienta.
 - [**URL Scan**](https://urlscan.io/): Herramienta para saber qué hay detrás de una url y sus redirecciones.
 - [**Where Goes Trace**](https://wheregoes.com/trace/): Herramienta específica para ver el nº de redirecciones que tiene una url.
@@ -78,9 +80,8 @@ Aplicaciones que he utilizado a nivel forense:
 ## RECURSOS INTERESANTES:
 El cajón desastre, herramientas, aplicaciones, o páginas webs que no las llego a ver en ninguna categoría anterior y me ha parecido interesante listarlas en el repositorio:
 
-
 - [**Tails SO**](https://tails.net/index.es.html): SO basado en el anonimato, muy recomendado a la hora de conectarse a ciertas páginas onion.
-- [**Remove BG**]Remove BG(https://www.remove.bg/es): Quitar el fondo de cualquier imagen online.
+- [**Remove BG**](https://www.remove.bg/es): Quitar el fondo de cualquier imagen online.
 - [**TT Downloader**](https://ttdownloader.com/es/): Para descargar vídeos de Tik Tok.
 - [**Fake Name Generator**](https://es.fakenamegenerator.com/): Para crear datos falsos, desde nombres, direcciones físicas, datos bancarios...
 - [**IP Logger**](https://iplogger.org/es/): Para crear una baliza.
@@ -89,18 +90,18 @@ El cajón desastre, herramientas, aplicaciones, o páginas webs que no las llego
 - [**Any Run**](https://any.run/): Sanbox 1, para mí el más fácil e intuitivo.
 - [**Joe´s Security**](https://www.joesecurity.org/): Sandbox 2.
 - [**Alien Vault**](https://otx.alienvault.com/): Sandbox 3.
-- [**Tor Flow**](https://torflow.uncharted.software/): Análisis del tráfico en la red TOR
+- [**Tor Flow**](https://torflow.uncharted.software/): Análisis del tráfico en la red TOR.
 - [**WhatsAPP Monitor**](https://github.com/ErikTschierschke/WhatsappMonitor): Aplicación para monitorizar cuando un contacto de WhatsApp está conectado y desconectado.
 - [**RansomLook**](https://www.ransomlook.io/): Página que reúne todas las novedadees entorno a ataques de ransomware.
-- 
+
 </br>
 
 ## IAs INTERESANTES:
 - [**Generated.photos***](https://generated.photos/human-generator/): Para crear imágenes de perfil mediante IA.
 - [**IA Generate Photo**](https://thispersondoesnotexist.com/): Como la herramienta anterior, pero diferente.
-- [**Mubert**](https://mubert.com/render): IA para hacer música
+- [**Mubert**](https://mubert.com/render): IA para hacer música.
 - [**Fliki**](https://fliki.ai/): IA para crear videos y pasar el texto a voz.
-- 
+ 
 </br>
 
 Eso sería todo, espero que te sea de ayuda.
