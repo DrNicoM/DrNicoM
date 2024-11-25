@@ -61,6 +61,7 @@ Obtención de información a través de imágenes, ya sea en los metadatos o bie
 - [**Suncalc**](http://suncalc.net/): Aplicación para calcular la hora a la que se hizo una fotografía en función de las sombras.
 - [**Shadow Map**](https://app.shadowmap.org/?): Mapa en 3d para visualizar las sombras.
 - [**Am I Real**](https://seintpl.github.io/AmIReal/): Aplicación para detectar si una imagen ha sido creada por IA o no.
+- [**Depix**](https://github.com/spipm/Depix)): Herramienta para dexpixelar letras en imágenes pixeladas (Muy útil cuando las matrículas salen borrosas)
 
 
 </br>
